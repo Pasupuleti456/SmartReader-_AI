@@ -2,6 +2,7 @@ streamlit
 PyMuPDF
 pdfplumber
 numpy
+faiss-cpu
 sentence-transformers
 langchain-core
 langchain-huggingface
