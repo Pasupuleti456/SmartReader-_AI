@@ -96,7 +96,17 @@ Instead of sending the whole PDF directly to an AI model, the application extrac
                 │   AI Answer     │
                 └─────────────────┘
 ```
+## 🚀 Live Demo
 
+Try SmartReader AI here:
+
+[🔗 Open SmartReader AI](https://smartreader-ai-ragapplication.streamlit.app/)
+
+---
+
+## 🖥️ Application Preview
+
+![SmartReader AI Screenshot](rag_display.png)
 
 ## 📌 Future Improvements
 
@@ -115,6 +125,7 @@ Possible future enhancements:
 - 🗃️ Add document management
 
 ---
+
 
 ## 👩‍💻 Author
 
