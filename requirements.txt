@@ -1,0 +1,11 @@
+streamlit
+PyMuPDF
+pdfplumber
+numpy
+sentence-transformers
+langchain-core
+langchain-huggingface
+langchain-chroma
+chromadb
+huggingface-hub
+openai
